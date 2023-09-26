@@ -1,0 +1,17 @@
+{
+    "type": "module",
+    "name": "testing",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^29.5.5",
+        "vitest": "^0.34.5"
+    }
+}
